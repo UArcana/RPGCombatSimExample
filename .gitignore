@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.DS_Store
+Thumbs.db

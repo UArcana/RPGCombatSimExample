@@ -1,0 +1,81 @@
+Fri Feb 13 21:43:55 2026
+ -- Balance Statistics --
+
+ (In 50000 battles)
+
+ Ability:
+Rock Shell: WR:61.62% Used:29486
+Warm Up: WR:60.51% Used:29487
+Expose: WR:57.17% Used:40113
+Opportunity Shot: WR:56.37% Used:39759
+Enchant: WR:52.51% Used:40042
+Sneak Attack: WR:52.06% Used:80283
+Missile: WR:52.05% Used:241123
+Deflect: WR:51.86% Used:159570
+Shoot: WR:51.64% Used:79287
+Infusion: WR:50.86% Used:178305
+Shock: WR:50.59% Used:80200
+Mana Shield: WR:50.35% Used:159782
+Blessing: WR:50.30% Used:186934
+Beacon: WR:50.10% Used:79582
+Slash: WR:49.95% Used:157553
+Barrier: WR:49.74% Used:39642
+Strike: WR:49.44% Used:157704
+Bolt: WR:49.00% Used:153400
+Serenity: WR:48.94% Used:29690
+Parry: WR:48.84% Used:160931
+Relief: WR:48.30% Used:22882
+Desecrate: WR:46.53% Used:29520
+Circle: WR:46.36% Used:124981
+Attack: WR:45.64% Used:80648
+Slam: WR:42.48% Used:40178
+Wind Shear: WR:36.42% Used:29673
+War Cry: WR:36.27% Used:29528
+
+ AbilityElement:
+Fire: WR:50.63% Used:173792
+Earth: WR:50.43% Used:126760
+Physical: WR:50.39% Used:126652
+Wind: WR:50.14% Used:126678
+Water: WR:49.79% Used:215433
+Light: WR:49.57% Used:214678
+Dark: WR:49.57% Used:216007
+
+ AbilityMod:
+Invigorating: WR:51.38% Used:280546
+Powerful: WR:50.48% Used:280574
+Lesser: WR:50.48% Used:108214
+Crushing: WR:49.58% Used:107390
+Greater: WR:49.05% Used:107083
+Swift: WR:48.89% Used:238044
+Motivating: WR:47.91% Used:78149
+
+ WeaponCategory:
+MeleeAgile: WR:52.06% Used:80283
+Ranged: WR:51.64% Used:79287
+Elemental: WR:50.59% Used:80200
+Spiritual: WR:50.10% Used:79582
+Melee: WR:45.64% Used:80648
+
+ WeaponType:
+Scythe: WR:52.22% Used:40293
+Dagger: WR:51.91% Used:39990
+Crossbow: WR:51.82% Used:39607
+Bow: WR:51.47% Used:39680
+Staff: WR:50.94% Used:40251
+Orb: WR:50.24% Used:39949
+Relic: WR:50.20% Used:39647
+Grimoire: WR:50.01% Used:39935
+Spear: WR:45.73% Used:26907
+Sword: WR:45.69% Used:26783
+Axe: WR:45.50% Used:26958
+
+ WeaponElement:
+Earth: WR:57.71% Used:58964
+Fire: WR:56.06% Used:58665
+Water: WR:49.30% Used:58982
+Light: WR:48.15% Used:45822
+Dark: WR:48.04% Used:58894
+Wind: WR:45.30% Used:59245
+Physical: WR:45.12% Used:59428
+
